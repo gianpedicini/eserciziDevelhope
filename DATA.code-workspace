@@ -1,10 +1,13 @@
-{
+ß{
 	"folders": [
 		{
 			"path": "../../DATA"
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../Team_Project/team_project2"
 		}
 	],
 	"settings": {}
