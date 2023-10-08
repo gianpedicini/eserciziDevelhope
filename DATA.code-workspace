@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../Team_Project/team_project2"
+		},
+		{
+			"path": "/Users/gian/airflow"
 		}
 	],
 	"settings": {}
